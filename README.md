@@ -40,6 +40,6 @@
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sannjuzz&layout=compact&theme=radical&title_color=ffffff&text_color=ffffff" alt="Sanjay Kumar P" />
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sannjuzz&layout=compact&theme=radical&title_color=ffffff&text_color=ffffff" alt="sannjuzz" />
 
 </p>
