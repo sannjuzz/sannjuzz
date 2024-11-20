@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Sanjay Kumar.P</h1>
-<h3 align="left">I'm a passionate learner and developer specializing in CS, data visualization, and web development. My journey in tech includes building projects, solving complex problems, and continuously learning new concepts.</h3>
+<h3 align="left">As a curious and driven computer science enthusiast, I’m constantly exploring the realms of data visualization, web development, and software engineering. I thrive on turning complex challenges into intuitive solutions and am passionate about creating meaningful projects that make a difference. My journey is one of continuous learning, adapting to new technologies, and pushing the boundaries of what’s possible in the tech world.</h3>
 
 - 🌱 I’m currently learning **BTech CSE**
 - 📫 How to reach me **sanjaykumarp241@gmail.com**
