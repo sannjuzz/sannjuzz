@@ -1,19 +1,18 @@
 <h1 align="left">Hi 👋, I'm Sanjay Kumar.P</h1>
 <h3 align="left">I'm a passionate learner and developer specializing in CS, data visualization, and web development. My journey in tech includes building projects, solving complex problems, and continuously learning new concepts.</h3>
 
-- 🌱 I’m currently learning **BTech cse**
-
+- 🌱 I’m currently learning **BTech CSE**
 - 📫 How to reach me **sanjaykumarp241@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://youtu.be/LgncSiSnIyI?si=toiZRs_Ju9AAlk3X" target="_blank">
+  <a href="https://www.linkedin.com/in/sanjaykumarp241" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://youtu.be/LgncSiSnIyI?si=toiZRs_Ju9AAlk3X" target="_blank">
+  <a href="https://www.kaggle.com/sanjaykumarp241" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle">
   </a>
-  <a href="https://youtu.be/LgncSiSnIyI?si=toiZRs_Ju9AAlk3X" target="_blank">
+  <a href="https://leetcode.com/sanjaykumarp241/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode">
   </a>
 </p>
@@ -28,18 +27,15 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
- 
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
-
-
-
-
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R">
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sannjuzz&layout=compact&theme=radical&title_color=ffffff&text_color=ffffff" alt="sannjuzz" />
-
+<h3 align="left">My GitHub Stats:</h3>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sannjuzz&layout=compact&theme=radical&title_color=ffffff&text_color=ffffff" alt="sannjuzz">
 </p>
+
