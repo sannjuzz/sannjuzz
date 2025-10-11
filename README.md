@@ -34,7 +34,7 @@
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R">
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
 </p>
-(https://github-readme-stats.vercel.app/api?username=sannjuzz)](https://github.com/sannjuzz/github-readme-stats)
+[![Sanjay's GitHub stats](https://github-readme-stats.vercel.app/api?username=sannjuzz)](https://github.com/sannjuzz/github-readme-stats)
 <h3 align="left">My GitHub Stats:</h3>
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sannjuzz&layout=compact&theme=radical&title_color=ffffff&text_color=ffffff" alt="sannjuzz">
