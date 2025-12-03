@@ -57,10 +57,7 @@ Right now, I'm learning and developing AI-based interactive applications and rea
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img height="180px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sannjuzz&show_icons=true&theme=tokyonight" />
-  <img height="180px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sannjuzz&layout=compact&theme=tokyonight" />
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sannjuzz&layout=compact)
 
 ---
 
