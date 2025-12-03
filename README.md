@@ -3,31 +3,31 @@
 <p align="left">
 I'm a final-year B.Tech CSE student at Universal Engineering College, Thrissur — passionate about AI 🤖, Computer Vision 👁️, and intelligent human–computer interaction.  
 I love building smart systems that *see, understand, and respond* to the real world.  
-Currently working on projects involving gesture control, live detection, and interactive AI applications.
+Right now, I'm learning and developing AI-based interactive applications and real-time detection systems.
 </p>
 
 ---
 
 ## 🚀 What I Do
-- 🤖 **AI & Computer Vision Projects** (Gesture Control, Face/Emotion AI, Tracking Systems)  
-- 🧠 **Machine Learning & Data Analysis**  
-- 🖥️ **Web Development** (Python + Flask + JS)  
-- ⚙️ **Software Engineering & Problem Solving**
+- 🤖 AI & Computer Vision (gesture control, tracking, emotion AI)  
+- 🧠 Machine Learning & Data Analysis  
+- 🖥️ Web Development (Flask + JavaScript)  
+- ⚙️ Software Engineering & Problem Solving  
 
 ---
 
 ## 🌱 Currently Learning
-- Deep Learning for Vision (CNNs, landmarks, pose estimation)  
-- Real-time tracking with OpenCV + MediaPipe  
-- Full-stack and API development  
-- System design & scalable architectures  
+- Deep Learning for Vision (CNN, pose estimation)  
+- Real-time OpenCV + MediaPipe pipelines  
+- API & backend design  
+- Cloud + deployment basics  
 
 ---
 
 ## 📬 Contact Me
-- ✉️ **Email:** sanjaykumarp241@gmail.com  
-- 🌐 **LinkedIn:** linkedin.com/in/sanjaykumarp241  
-- 🏆 **Portfolio Soon…** (You can ask me to build a modern one)
+- 📧 **Email:** sanjaykumarp241@gmail.com  
+- 🔗 **LinkedIn:** linkedin.com/in/sanjaykumarp241  
+- 🏆 Portfolio coming soon...
 
 ---
 
@@ -58,27 +58,18 @@ Currently working on projects involving gesture control, live detection, and int
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=sannjuzz&show_icons=true&theme=tokyonight"/>
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sannjuzz&layout=compact&theme=tokyonight"/>
+  <img height="180px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sannjuzz&show_icons=true&theme=tokyonight" />
+  <img height="180px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sannjuzz&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
 ## 🏆 GitHub Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sannjuzz&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sannjuzz&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10" />
 </p>
-
----
-
-## 🔭 Current Projects
-- ✋ **3D Gesture Mover**  
-- 🎵 **Air-Swipe Music Controller**  
-- 😊 **AI Face Emotion Persona Overlay**  
-- 🔍 **Real-time Mirror Clone Matrix using OpenCV**
 
 ---
 
 ## ✨ Fun Fact  
 I break things, fix them, and learn — that’s how all my projects are born 😄
-
