@@ -1,7 +1,7 @@
 <h1 align="left">Hey 👋 I'm Sanjay Kumar P</h1>
 
 <p align="left">
-I'm a final-year B.Tech CSE student at Universal Engineering College, Thrissur — passionate about AI 🤖, Computer Vision 👁️, and intelligent human–computer interaction.  
+Passionate about AI 🤖, Computer Vision 👁️, and intelligent human–computer interaction.  
 I love building smart systems that *see, understand, and respond* to the real world.  
 Right now, I'm learning and developing AI-based interactive applications and real-time detection systems.
 </p>
