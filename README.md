@@ -59,6 +59,7 @@ Right now, I'm learning and developing AI-based interactive applications and rea
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sannjuzz&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sannjuzz&layout=pie)](https://github.com/sannjuzz/github-readme-stats)
+https://github-readme-stats.vercel.app/api/top-langs/?username=sannjuzz&layout=compact&theme=radical
 
 ---
 
